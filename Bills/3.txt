@@ -1,0 +1,6 @@
+Bill No: 3 
+Customer Name: Tapu Phone No.: 1234554321
+
+Products:
+1 Daawat Biryani Basmati Rice 1kg Rate: 230 Quantity: 14 Subtotal: 3055.78 ( 5.1% Discount applied.)
+Total: 3055.78

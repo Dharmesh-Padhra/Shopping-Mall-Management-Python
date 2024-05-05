@@ -1,0 +1,6 @@
+Bill No: 2 
+Customer Name: Daya Phone No.: 1111111111
+
+Products:
+1 Daawat Biryani Basmati Rice 1kg Rate: 230 Quantity: 5 Subtotal: 1091.3500000000001 ( 5.1% Discount applied.)
+Total: 1091.3500000000001

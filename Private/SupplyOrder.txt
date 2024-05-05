@@ -1,0 +1,4 @@
+Supply Order:
+Threshold Quantity: 11
+Product List:
+1. PID: 2 Product: Daawat Biryani Basmati Rice 1kg Stock: 10

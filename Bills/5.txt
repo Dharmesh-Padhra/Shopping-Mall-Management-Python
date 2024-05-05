@@ -1,0 +1,7 @@
+Bill No: 5 
+Customer Name: rice Phone No.: 1234567890
+
+Products:
+1 Daawat Biryani Basmati Rice 1kg Rate: 230 Quantity: 3 Subtotal: 654.8100000000001 ( 5.1% Discount applied.)
+2 Daawat Biryani Basmati Rice 1kg Rate: 230 Quantity: 3 Subtotal: 654.8100000000001 ( 5.1% Discount applied.)
+Total: 1309.6200000000001

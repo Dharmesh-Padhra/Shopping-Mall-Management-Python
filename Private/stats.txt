@@ -1,0 +1,3 @@
+Revenue: 6399.83 
+Total Quantity Sold: 67 
+Total Bills Generated: 5 

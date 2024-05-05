@@ -1,0 +1,9 @@
+1 Oreo_Chocolatey_Sandwich_Biscuits 35 39 0.0 2 
+2 Daawat_Biryani_Basmati_Rice_1kg 230 24 5.1 31 
+3 Aashirvaad_Atta_Whole_Wheat_10kg 540 25 15.0 4 
+4 Aashirvaad_Atta_Whole_Wheat_5kg 286 30 11 6 
+5 Aashirvaad_Atta_Whole_Wheat_1kg 67 35 5 10 
+6 Aashirvaad_Atta_Whole_Wheat_2kg 98 15 2 9 
+7 Aashirvaad_Salt_1kg_Pouch 28 35 21 5 
+8 Taj_Mahal_Rich_&_Flavourful_Tea_100g 50 10 0 0 
+9 Taj_Mahal_Rich_&_Flavourful_Tea_250g 170 13 0 0 

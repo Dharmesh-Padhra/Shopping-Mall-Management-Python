@@ -1,0 +1,6 @@
+Bill No: 1 
+Customer Name: Jetha Phone No.: 1111111111
+
+Products:
+1 Daawat Biryani Basmati Rice 1kg Rate: 230 Quantity: 4 Subtotal: 873.08 ( 5.1% Discount applied.)
+Total: 873.08

@@ -1,0 +1,6 @@
+Bill No: 4 
+Customer Name: Champaklal Phone No.: 3333333333
+
+Products:
+1 Oreo Chocolatey Sandwich Biscuits Rate: 35 Quantity: 2 Subtotal: 70.0
+Total: 70.0
